@@ -1,5 +1,6 @@
 # muse-morphose-bot
 Interface for Full-Song and Fine-Grained Piano Music Style Transfer using MuseMorphose
+@musemorph_bot
 
 MuseMorphose Paper
 Shih-Lun Wu, Yi-Hsuan Yang
